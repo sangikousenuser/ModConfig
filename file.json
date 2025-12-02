@@ -1,4 +1,4 @@
 {
-  "https://www.dropbox.com/scl/fi/fyvlfumjqdsingae180du/mods.zip?rlkey=4p55bc3pmf7h4bcaeoek50e6l&st=fwelqo0p&dl=1": "ここにmods.zipのURLを入力",
-  "https://www.dropbox.com/scl/fi/4cpmu2aklrynqtql8lp2h/tacz.zip?rlkey=6tzuxuxhydoqg8mdbplx7dgvg&st=uyvga5jk&dl=1": "ここにtacz.zipのURLを入力"
+  "modsUrl": "https://www.dropbox.com/scl/fi/fyvlfumjqdsingae180du/mods.zip?rlkey=4p55bc3pmf7h4bcaeoek50e6l&st=fwelqo0p&dl=1",
+  "taczUrl": "https://www.dropbox.com/scl/fi/4cpmu2aklrynqtql8lp2h/tacz.zip?rlkey=6tzuxuxhydoqg8mdbplx7dgvg&st=uyvga5jk&dl=1"
 }
